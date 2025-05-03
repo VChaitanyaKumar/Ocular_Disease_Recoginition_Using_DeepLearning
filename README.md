@@ -1,4 +1,3 @@
-# Ocular_Disease_Recoginition_Using_DeepLearning
 # 👁️ Eye Diseases Classification Using InceptionV3
 
 This project aims to classify various eye diseases using transfer learning with the **InceptionV3** model. The dataset used is sourced from Kaggle, and the model achieves high accuracy in detecting diseases from retina images.
